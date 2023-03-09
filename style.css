@@ -2,6 +2,22 @@ body {
   font-family: "Comic Sans MS";
   background: #842369;
   text-align: center;
-  color: lavender;
+  color: rgb(230, 200, 230);
   text-shadow: 6px 6px black;
+  text-decoration: overline;
+  text-decoration: underline;
+}
+
+img {
+  margin: 5px;
+  float: right;
+  border-radius: 30px;
+  border-width: 30px;
+  border-style: inset;
+  border-color: darkorchid;
+}
+
+hr{
+  width: 600%;
+  height: 300px;
 }
